@@ -19,7 +19,7 @@ period and count.
 
 `update.period=60000`
 `update.count=2`
-###### Update notifications: max 2 per minute (60000 milliseconds in a minute)
+###### Just be free to add that 2 properties to config.properties. In this example will be -> max 2 per minute (60000 milliseconds in a minute)
 
 ---
 Technologies: Java 11, JUnit 5, Gradle 7.5
